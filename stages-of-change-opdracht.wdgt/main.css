@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff2f1;
+}
+
+#container {
+  display: grid;
+  justify-content: space-evenly;
+  grid-template:
+    ". . ."
+    "answersArea answersArea answersArea"
+    ". nakijkContainer .";
+}
+
+#answers {
+  grid-area: answersArea;
+  display: flex;
+  justify-content: center;
+  height: 68px;
+}
+
+.answer {
+  align-self: center;
+  justify-self: center;
+  margin: 1em;
+  display: inline-flex;
+  background-color: #694d75;
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  color: white;
+  width: fit-content;
+  font-family: "Luckiest Guy", cursive;
+  cursor: grab;
+}
+
+.answer p.option {
+  padding: 0;
+}
+
+.drag-box-container {
+  justify-self: center;
+  display: grid;
+  max-width: 300px;
+  background-color: #fae0de;
+  margin: 1em;
+  font-family: "McLaren", cursive;
+  border-radius: 5px;
+}
+
+.drag-box-container p {
+  padding: 1em;
+  text-align: center;
+}
+
+.drag-box {
+  align-self: end;
+  background-color: #eecfcd;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  border-radius: 0px 0 5px 5px;
+}
+
+#nakijk-container {
+  grid-area: nakijkContainer;
+  display: grid;
+  place-items: center;
+}
+
+button#nakijken {
+  justify-self: center;
+  width: fit-content;
+  color: white;
+  background-color: #1e96fc;
+  padding: 0.5em 1em;
+  font-size: 2em;
+  font-family: "Luckiest Guy", cursive;
+  border-radius: 5px;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+}

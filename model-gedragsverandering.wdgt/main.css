@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fff2f1;
+  font-family: "McLaren", cursive;
+}
+
+#container {
+  margin: 50px 10vw 0 10vw;
+  width: 80vw;
+  display: grid;
+}
+
+.question-container {
+  margin-bottom: 1.5em;
+}
+
+.multiple-choice-answers {
+    padding-left: 1em;
+    padding-top: 1em;
+    /* background-color: #fae0de; */
+    border-radius: 15px;
+}
+
+label {
+  line-height: 1.8em;
+}
+
+button#nakijken {
+  justify-self: center;
+  width: fit-content;
+  color: white;
+  background-color: #1e96fc;
+  padding: 0.3em 0.5em;
+  font-size: 1.3em;
+  font-family: "Luckiest Guy", cursive;
+  border-radius: 5px;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+.incorrect {
+  color: #da7878;
+  font-weight: bold;
+}
+
+.correct {
+  color: #78da93;
+  font-weight: bold;
+}
