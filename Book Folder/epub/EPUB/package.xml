@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Intervention Mapping</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:5e6f6854-a615-743d-1a52-044d5ca6beef</dc:identifier>
+        <meta name="cover" content="img2" />
+
+        <dc:creator>3S Intervention Mapping</dc:creator>
+        <dc:publisher>N/A</dc:publisher>
+        <dc:rights>Saxion</dc:rights>
+        <dc:language>nl</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2021-01-14T16:07:46Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.6.8</meta>
+        <meta property="kotobee:build">1246</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/srfjhn.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/s595gp.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/raw/ch1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/raw/swewrt.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/raw/sbuox9.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/raw/sc18fi.xhtml" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/raw/ssbu4n.xhtml" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/raw/sprov6.xhtml" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/raw/s9xaja.xhtml" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/raw/sy7f8n.xhtml" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/raw/sx3hpr.xhtml" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/raw/s4nvyb.xhtml" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/raw/splg7s.xhtml" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/raw/syis6e.xhtml" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/raw/sdqw4e.xhtml" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/raw/smm11e.xhtml" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/raw/s6hxmv.xhtml" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/raw/skppuj.xhtml" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/raw/so5w47.xhtml" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/raw/srcnrz.xhtml" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/raw/sx0wgm.xhtml" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/raw/scpcq9.xhtml" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/raw/s6s21c.xhtml" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/raw/sg9dma.xhtml" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/raw/sjdijg.xhtml" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/raw/sqlbeg.xhtml" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/raw/se8eml.xhtml" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/raw/sgwqn6.xhtml" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/raw/sa1yny.xhtml" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/raw/sv6o08.xhtml" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/raw/seobc9.xhtml" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/raw/smubr1.xhtml" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/raw/sla859.xhtml" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/raw/sar29w.xhtml" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/raw/seox36.xhtml" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/raw/s4gh5u.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/ase.svg" media-type="image/svg+xml"/>
+<item id="img1" href="imgs/copingplanning.png" media-type="image/png"/>
+<item id="img2" href="imgs/defaultCover.png" properties="cover-image" media-type="image/png"/>
+<item id="img3" href="imgs/im6.png" media-type="image/png"/>
+<item id="img4" href="imgs/introductie.png" media-type="image/png"/>
+<item id="img5" href="imgs/lightbulb.png" media-type="image/png"/>
+<item id="img6" href="imgs/picture1.png" media-type="image/png"/>
+<item id="img7" href="imgs/plaatje1.png" media-type="image/png"/>
+<item id="img8" href="imgs/smart.svg" media-type="image/svg+xml"/>
+<item id="img9" href="imgs/stagesofchange.png" media-type="image/png"/>
+<item id="img10" href="imgs/stagesofchange01.svg" media-type="image/svg+xml"/>
+<item id="img11" href="imgs/stap1.png" media-type="image/png"/>
+<item id="img12" href="imgs/stap2.png" media-type="image/png"/>
+<item id="img13" href="imgs/stap3.png" media-type="image/png"/>
+<item id="img14" href="imgs/stap4.png" media-type="image/png"/>
+<item id="img15" href="imgs/stap5.png" media-type="image/png"/>
+<item id="img16" href="imgs/stap6.png" media-type="image/png"/>
+<item id="img17" href="imgs/tabel1.png" media-type="image/png"/>
+<item id="img18" href="imgs/tabel2.png" media-type="image/png"/>
+<item id="img19" href="imgs/tabel3.png" media-type="image/png"/>
+<item id="img20" href="imgs/valpreventie.png" media-type="image/png"/>
+<item id="img21" href="js/widgets/lalondewdgt.zip/910bac4603d3cb00.png" media-type="image/png"/>
+<item id="img22" href="js/widgets/lalondewdgt.zip/css/fonts/icomoon.svg" media-type="image/svg+xml"/>
+<item id="img23" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" media-type="image/png"/>
+<item id="img24" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" media-type="image/png"/>
+<item id="img25" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" media-type="image/png"/>
+<item id="img26" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" media-type="image/png"/>
+<item id="img27" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" media-type="image/png"/>
+<item id="img28" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" media-type="image/png"/>
+<item id="img29" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" media-type="image/png"/>
+<item id="img30" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" media-type="image/png"/>
+<item id="img31" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-icons_222222_256x240.png" media-type="image/png"/>
+<item id="img32" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-icons_2e83ff_256x240.png" media-type="image/png"/>
+<item id="img33" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-icons_454545_256x240.png" media-type="image/png"/>
+<item id="img34" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-icons_888888_256x240.png" media-type="image/png"/>
+<item id="img35" href="js/widgets/lalondewdgt.zip/css/smoothness/images/ui-icons_cd0a0a_256x240.png" media-type="image/png"/>
+<item id="img36" href="js/widgets/lalondewdgt.zip/Default.png" media-type="image/png"/>
+<item id="img37" href="js/widgets/lalondewdgt.zip/ea62a982da83e224_S_911_351.png" media-type="image/png"/>
+<item id="img38" href="js/widgets/lalondewdgt.zip/img/backbutton@2x.png" media-type="image/png"/>
+<item id="img39" href="js/widgets/lalondewdgt.zip/img/ibw-ribbon.png" media-type="image/png"/>
+<item id="img40" href="js/widgets/meisjewdgt.zip/910bac4603d3cb00.png" media-type="image/png"/>
+<item id="img41" href="js/widgets/meisjewdgt.zip/acfb61ada579f583_S_500_350.png" media-type="image/png"/>
+<item id="img42" href="js/widgets/meisjewdgt.zip/css/fonts/icomoon.svg" media-type="image/svg+xml"/>
+<item id="img43" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" media-type="image/png"/>
+<item id="img44" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" media-type="image/png"/>
+<item id="img45" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" media-type="image/png"/>
+<item id="img46" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" media-type="image/png"/>
+<item id="img47" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" media-type="image/png"/>
+<item id="img48" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" media-type="image/png"/>
+<item id="img49" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" media-type="image/png"/>
+<item id="img50" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" media-type="image/png"/>
+<item id="img51" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-icons_222222_256x240.png" media-type="image/png"/>
+<item id="img52" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-icons_2e83ff_256x240.png" media-type="image/png"/>
+<item id="img53" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-icons_454545_256x240.png" media-type="image/png"/>
+<item id="img54" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-icons_888888_256x240.png" media-type="image/png"/>
+<item id="img55" href="js/widgets/meisjewdgt.zip/css/smoothness/images/ui-icons_cd0a0a_256x240.png" media-type="image/png"/>
+<item id="img56" href="js/widgets/meisjewdgt.zip/Default.png" media-type="image/png"/>
+<item id="img57" href="js/widgets/meisjewdgt.zip/img/backbutton@2x.png" media-type="image/png"/>
+<item id="img58" href="js/widgets/meisjewdgt.zip/img/ibw-ribbon.png" media-type="image/png"/>
+<item id="img59" href="js/widgets/pietjewdgt02.zip/910bac4603d3cb00.png" media-type="image/png"/>
+<item id="img60" href="js/widgets/pietjewdgt02.zip/a1df95d652958d10_S_1024_715.png" media-type="image/png"/>
+<item id="img61" href="js/widgets/pietjewdgt02.zip/css/fonts/icomoon.svg" media-type="image/svg+xml"/>
+<item id="img62" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" media-type="image/png"/>
+<item id="img63" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" media-type="image/png"/>
+<item id="img64" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" media-type="image/png"/>
+<item id="img65" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" media-type="image/png"/>
+<item id="img66" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" media-type="image/png"/>
+<item id="img67" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" media-type="image/png"/>
+<item id="img68" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" media-type="image/png"/>
+<item id="img69" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" media-type="image/png"/>
+<item id="img70" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-icons_222222_256x240.png" media-type="image/png"/>
+<item id="img71" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-icons_2e83ff_256x240.png" media-type="image/png"/>
+<item id="img72" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-icons_454545_256x240.png" media-type="image/png"/>
+<item id="img73" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-icons_888888_256x240.png" media-type="image/png"/>
+<item id="img74" href="js/widgets/pietjewdgt02.zip/css/smoothness/images/ui-icons_cd0a0a_256x240.png" media-type="image/png"/>
+<item id="img75" href="js/widgets/pietjewdgt02.zip/Default.png" media-type="image/png"/>
+<item id="img76" href="js/widgets/pietjewdgt02.zip/img/backbutton@2x.png" media-type="image/png"/>
+<item id="img77" href="js/widgets/pietjewdgt02.zip/img/ibw-ribbon.png" media-type="image/png"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="contents" properties="rendition:layout-reflowable"/>
+<itemref idref="html0" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+<itemref idref="html15" properties="rendition:layout-reflowable"/>
+<itemref idref="html16" properties="rendition:layout-reflowable"/>
+<itemref idref="html17" properties="rendition:layout-reflowable"/>
+<itemref idref="html18" properties="rendition:layout-reflowable"/>
+<itemref idref="html19" properties="rendition:layout-reflowable"/>
+<itemref idref="html20" properties="rendition:layout-reflowable"/>
+<itemref idref="html21" properties="rendition:layout-reflowable"/>
+<itemref idref="html22" properties="rendition:layout-reflowable"/>
+<itemref idref="html23" properties="rendition:layout-reflowable"/>
+<itemref idref="html24" properties="rendition:layout-reflowable"/>
+<itemref idref="html25" properties="rendition:layout-reflowable"/>
+<itemref idref="html26" properties="rendition:layout-reflowable"/>
+<itemref idref="html27" properties="rendition:layout-reflowable"/>
+<itemref idref="html28" properties="rendition:layout-reflowable"/>
+<itemref idref="html29" properties="rendition:layout-reflowable"/>
+<itemref idref="html30" properties="rendition:layout-reflowable"/>
+<itemref idref="html31" properties="rendition:layout-reflowable"/>
+<itemref idref="html32" properties="rendition:layout-reflowable"/>
+<itemref idref="html33" properties="rendition:layout-reflowable"/>
+<itemref idref="html34" properties="rendition:layout-reflowable"/>
+<itemref idref="html35" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>

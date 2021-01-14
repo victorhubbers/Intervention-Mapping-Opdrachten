@@ -1,0 +1,314 @@
+<HotspotImage>
+<widget_language>en</widget_language>
+<background_picture height="351" width="911" autosize="true">https://storage.googleapis.com/bookwidgets-eu--create/resources/58/5826255868919808/de/de1aa78e-57cb-4c3b-8952-ed77ea00e528.png?filename=lalonde.png</background_picture>
+<resize-policy value="Cover entire area with entire picture">Cover entire area with entire picture</resize-policy>
+<position/>
+<hotspots>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;Biologische factoren: &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;length&quot;:22,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;},&quot;offset&quot;:0}],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;},{&quot;text&quot;:&quot;Hoge bloeddruk &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;Hoge bloedsuikerspiegel &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;Overgewicht  &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;Cholesterol &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>&lt;b>Biologische factoren: &lt;/b>&lt;/p>&lt;ul>&lt;li>Hoge bloeddruk &lt;/li>&lt;li>Hoge bloedsuikerspiegel &lt;/li>&lt;li>Overgewicht  &lt;/li>&lt;li>Cholesterol &lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>330</X>
+<Y>22</Y>
+<Width>248</Width>
+<Height>55</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;Omgeving (extern milieu):&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;length&quot;:25,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;},&quot;offset&quot;:0}],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;},{&quot;text&quot;:&quot;Stoffen/omgeving &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;Psychische belasting &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;Fysieke belasting &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;Buiten/ binnen milieu &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>&lt;b>Omgeving (extern milieu):&lt;/b>&lt;/p>&lt;ul>&lt;li>Stoffen/omgeving &lt;/li>&lt;li>Psychische belasting &lt;/li>&lt;li>Fysieke belasting &lt;/li>&lt;li>Buiten/ binnen milieu &lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>21</X>
+<Y>146</Y>
+<Width>247</Width>
+<Height>58</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;text&quot;:&quot;Leefstijl en gedrag (BRAVVO): &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;length&quot;:29,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;},&quot;offset&quot;:0}],&quot;data&quot;:{},&quot;type&quot;:&quot;unstyled&quot;},{&quot;text&quot;:&quot;B = Bewegen &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;R = Roken &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;A = Alcohol &amp; Drugs&quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;V = Veilig vrijen &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;V = Voeding  &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;},{&quot;text&quot;:&quot;O = Ontspanning &quot;,&quot;depth&quot;:0,&quot;dataRanges&quot;:[],&quot;data&quot;:{},&quot;type&quot;:&quot;unordered-list-item&quot;}]}">
+<text searchable="true">&lt;div>&lt;p>&lt;b>Leefstijl en gedrag (BRAVVO):&lt;/b> &lt;/p>&lt;ul>&lt;li>B = Bewegen &lt;/li>&lt;li>R = Roken &lt;/li>&lt;li>A = Alcohol &amp;amp; Drugs&lt;/li>&lt;li>V = Veilig vrijen &lt;/li>&lt;li>V = Voeding  &lt;/li>&lt;li>O = Ontspanning &lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>332</X>
+<Y>270</Y>
+<Width>243</Width>
+<Height>60</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;type&quot;:&quot;unstyled&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Voorzieningen gezondheidszorg (preventie):&quot;,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;offset&quot;:0,&quot;length&quot;:42,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;}}],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Gezondheidsbevordering  &quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;GGD &quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Bevolkingsonderzoek &quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}}]}">
+<text searchable="true">&lt;div>&lt;p>&lt;b>Voorzieningen gezondheidszorg (preventie):&lt;/b>&lt;/p>&lt;ul>&lt;li>Gezondheidsbevordering  &lt;/li>&lt;li>GGD &lt;/li>&lt;li>Bevolkingsonderzoek &lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>648</X>
+<Y>147</Y>
+<Width>240</Width>
+<Height>58</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+</hotspots>
+<support_student_account value="no">No student accounts</support_student_account>
+<student_account_authproviders/>
+<student_account_school>
+<code/>
+<name/>
+</student_account_school>
+<student_account_authrestrict>true</student_account_authrestrict>
+<LocalizationMap>
+<localization>
+<phrase>Hotspots accessed</phrase>
+</localization>
+<localization>
+<phrase>Hotspot accesses</phrase>
+</localization>
+<localization>
+<phrase>Authentication error.</phrase>
+</localization>
+<localization>
+<phrase>Cancel</phrase>
+</localization>
+<localization>
+<phrase>Could not connect to server, check your internet connection.</phrase>
+</localization>
+<localization>
+<phrase>Email</phrase>
+</localization>
+<localization>
+<phrase>Forgot password?</phrase>
+</localization>
+<localization>
+<phrase>Not logged in</phrase>
+</localization>
+<localization>
+<phrase>OK</phrase>
+</localization>
+<localization>
+<phrase>Offline</phrase>
+</localization>
+<localization>
+<phrase>Online</phrase>
+</localization>
+<localization>
+<phrase>Password</phrase>
+</localization>
+<localization>
+<phrase>Please sign in</phrase>
+</localization>
+<localization>
+<phrase>Received error trying to sign in</phrase>
+</localization>
+<localization>
+<phrase>School code</phrase>
+</localization>
+<localization>
+<phrase>Server error when signing in.</phrase>
+</localization>
+<localization>
+<phrase>Sign in</phrase>
+</localization>
+<localization>
+<phrase>Sign in failed</phrase>
+</localization>
+<localization>
+<phrase>Sign in to save your answers online</phrase>
+</localization>
+<localization>
+<phrase>Sign in using</phrase>
+</localization>
+<localization>
+<phrase>Sign in using email and password</phrase>
+</localization>
+<localization>
+<phrase>Sign in using school account</phrase>
+</localization>
+<localization>
+<phrase>Sign out</phrase>
+</localization>
+<localization>
+<phrase>Sign up here</phrase>
+</localization>
+<localization>
+<phrase>Username</phrase>
+</localization>
+<localization>
+<phrase>Waiting</phrase>
+</localization>
+<localization>
+<phrase>Waiting for account sign in to complete...</phrase>
+</localization>
+<localization>
+<phrase>Widget configuration error: school doesn't exist</phrase>
+</localization>
+<localization>
+<phrase>Wrong username or password, please try again.</phrase>
+</localization>
+<localization>
+<phrase>You need to be signed in to use this widget.</phrase>
+</localization>
+<localization>
+<phrase>You're currently offline and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're currently online and logged in as user:</phrase>
+</localization>
+<localization>
+<phrase>You're offline</phrase>
+</localization>
+<localization>
+<phrase>Your progress on this activity will be shared with your teacher.</phrase>
+</localization>
+<localization>
+<phrase>More info</phrase>
+</localization>
+</LocalizationMap>
+<DesignConstants template="Light Background" widget_font="Verdana" widget_backgroundimage="" widget_color="#3498DB">
+<constant>
+<name>hiddenborderleft</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenborderright</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenbordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenborderradius</name>
+<value>0px, 0px, 0px, 0px</value>
+</constant>
+<constant>
+<name>hiddenbackground</name>
+<value>#ffffff, #ffffff, 1, 1</value>
+</constant>
+<constant>
+<name>hiddenshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>labelborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelborderradius</name>
+<value>10px, 10px, 10px, 10px</value>
+</constant>
+<constant>
+<name>labelbackground</name>
+<value>#ffffff, #ffffff, 255, 255</value>
+</constant>
+<constant>
+<name>labelcolor</name>
+<value>#010539</value>
+</constant>
+<constant>
+<name>labelfont</name>
+<value>Verdana,20</value>
+</constant>
+<constant>
+<name>labelshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>pointerborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>pointerborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>pointerbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>pointerborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupbackground</name>
+<value>#ffffff, #ffffff, 255, 255</value>
+</constant>
+<constant>
+<name>popupborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupborderradius</name>
+<value>10px, 10px, 10px, 10px</value>
+</constant>
+<constant>
+<name>popupshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>popupfont</name>
+<value>Verdana,14</value>
+</constant>
+<constant>
+<name>popupcolor</name>
+<value>#000000</value>
+</constant>
+<constant>
+<name>buttonstrokecolor</name>
+<value>#3498DB</value>
+</constant>
+<constant>
+<name>buttonfillcolor</name>
+<value>#ffffff</value>
+</constant>
+</DesignConstants>
+<cover autosize="true"/>
+<widget_orientation value="Horizontal">Horizontal</widget_orientation>
+</HotspotImage>

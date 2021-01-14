@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fff2f1;
+  font-family: "McLaren", cursive;
+}
+
+#container {
+  margin: 50px 10vw 0 10vw;
+  width: 80vw;
+  display: grid;
+}
+
+ol {
+  font-weight: bold;
+}
+
+textarea.givenAnswer {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  padding: 0.5em;
+  background-color: #fae0de;
+  font-family: "McLaren", cursive;
+  width: -moz-available; /* WebKit-based browsers will ignore this. */
+  width: -webkit-fill-available; /* Mozilla-based browsers will ignore this. */
+  width: fill-available;
+  min-height: 100px;
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  border-bottom: 1px solid black;
+  resize: vertical;
+}
+
+textarea.correctAnswer {
+  padding: 0.5em;
+  background-color: #78da93;
+  color: black;
+  font-family: "McLaren", cursive;
+  width: -moz-available; /* WebKit-based browsers will ignore this. */
+  width: -webkit-fill-available; /* Mozilla-based browsers will ignore this. */
+  width: fill-available;
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  resize: none;
+}
+
+button#nakijken {
+  justify-self: center;
+  width: fit-content;
+  color: white;
+  background-color: #1e96fc;
+  padding: 0.3em 0.5em;
+  font-size: 1.3em;
+  font-family: "Luckiest Guy", cursive;
+  border-radius: 5px;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+}

@@ -1,0 +1,333 @@
+<HotspotImage>
+<widget_language>en</widget_language>
+<background_picture autosize="true" height="715" width="1024">https://storage.googleapis.com/bookwidgets-eu--create/resources/46/4621735411318784/67/670f77ec-ee84-4cdc-9000-30abcec44741.png?filename=pietje.png</background_picture>
+<resize-policy value="Contain entire picture, keep aspect ratio">Contain entire picture, keep aspect ratio</resize-policy>
+<position/>
+<hotspots>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;type&quot;:&quot;unstyled&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Voor fysieke activiteit waren de doelen: &quot;,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;offset&quot;:5,&quot;length&quot;:7,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;}}],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;De dagelijkse lichamelijke activiteit verhogen.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;De sedentaire tijd en schermkijktijd verlagen.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}}]}">
+<text searchable="true">&lt;div>&lt;p>Voor &lt;b>fysieke&lt;/b> activiteit waren de doelen: &lt;/p>&lt;ul>&lt;li>De dagelijkse lichamelijke activiteit verhogen.&lt;/li>&lt;li>De sedentaire tijd en schermkijktijd verlagen.&lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>443</X>
+<Y>119</Y>
+<Width>150</Width>
+<Height>161</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;type&quot;:&quot;unstyled&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Voor dieet waren de doelen: &quot;,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;offset&quot;:5,&quot;length&quot;:5,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;}}],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het stellen van reguliere maaltijdpatronen.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het verhogen van het aantal familiemaaltijden.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het reguleren c.q. verminderen van porties.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het verhogen van de inname van gezond voedsel en dranken.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het verminderen van de inname van ongezonde alternatieven.  &quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}}]}">
+<text searchable="true">&lt;div>&lt;p>Voor &lt;b>dieet&lt;/b> waren de doelen: &lt;/p>&lt;ul>&lt;li>Het stellen van reguliere maaltijdpatronen.&lt;/li>&lt;li>Het verhogen van het aantal familiemaaltijden.&lt;/li>&lt;li>Het reguleren c.q. verminderen van porties.&lt;/li>&lt;li>Het verhogen van de inname van gezond voedsel en dranken.&lt;/li>&lt;li>Het verminderen van de inname van ongezonde alternatieven.  &lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>152</X>
+<Y>225</Y>
+<Width>150</Width>
+<Height>158</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+<TextPopup>
+<text richData="{&quot;blocks&quot;:[{&quot;type&quot;:&quot;unstyled&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Voor de familiestructuur waren de doelen:&quot;,&quot;dataRanges&quot;:[{&quot;type&quot;:&quot;style&quot;,&quot;offset&quot;:8,&quot;length&quot;:16,&quot;data&quot;:{&quot;style&quot;:&quot;BOLD&quot;}}],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het vaststellen van de passende duur voor het slaappatroon.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het verhogen van het gevoel van eigenwaarde.&quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}},{&quot;type&quot;:&quot;unordered-list-item&quot;,&quot;depth&quot;:0,&quot;text&quot;:&quot;Het versterken van de sociale steun (ouders) en de self-efficacy (ouders). &quot;,&quot;dataRanges&quot;:[],&quot;data&quot;:{}}]}">
+<text searchable="true">&lt;div>&lt;p>Voor de &lt;b>familiestructuur&lt;/b> waren de doelen:&lt;/p>&lt;ul>&lt;li>Het vaststellen van de passende duur voor het slaappatroon.&lt;/li>&lt;li>Het verhogen van het gevoel van eigenwaarde.&lt;/li>&lt;li>Het versterken van de sociale steun (ouders) en de self-efficacy (ouders). &lt;/li>&lt;/ul>&lt;/div></text>
+<images/>
+</text>
+<marker-type value="none">None (hidden hotspot)</marker-type>
+<position>
+<X>717</X>
+<Y>241</Y>
+<Width>150</Width>
+<Height>145</Height>
+</position>
+<point/>
+<marker-image>https://www.bookwidgets.com/create/embedded-resources/HotspotImage/images/markericon.png</marker-image>
+<popup-location-preference value="right">Right of hotspot</popup-location-preference>
+</TextPopup>
+</hotspots>
+<support_student_account value="no">No student accounts</support_student_account>
+<student_account_authproviders/>
+<student_account_school>
+<code/>
+<name/>
+</student_account_school>
+<student_account_authrestrict>true</student_account_authrestrict>
+<LocalizationMap>
+<localization>
+<phrase>Hotspots accessed</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Hotspot accesses</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Authentication error.</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Cancel</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Could not connect to server, check your internet connection.</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Email</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Forgot password?</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Not logged in</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>OK</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Offline</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Online</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Password</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Please sign in</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Received error trying to sign in</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>School code</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Server error when signing in.</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign in</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign in failed</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign in to save your answers online</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign in using</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign in using email and password</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign in using school account</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign out</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Sign up here</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Username</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Waiting</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Waiting for account sign in to complete...</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Widget configuration error: school doesn't exist</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Wrong username or password, please try again.</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>You need to be signed in to use this widget.</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>You're currently offline and logged in as user:</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>You're currently online and logged in as user:</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>You're offline</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>Your progress on this activity will be shared with your teacher.</phrase>
+<translation/>
+</localization>
+<localization>
+<phrase>More info</phrase>
+<translation/>
+</localization>
+</LocalizationMap>
+<DesignConstants widget_font="Verdana" widget_backgroundimage="" widget_color="#3498DB" template="Light Background">
+<constant>
+<name>hiddenborderleft</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenborderright</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenbordertop</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenborderbottom</name>
+<value>0px, solid, #000000, 255</value>
+</constant>
+<constant>
+<name>hiddenborderradius</name>
+<value>0px, 0px, 0px, 0px</value>
+</constant>
+<constant>
+<name>hiddenbackground</name>
+<value>#ffffff, #ffffff, 1, 1</value>
+</constant>
+<constant>
+<name>hiddenshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>labelborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>labelborderradius</name>
+<value>10px, 10px, 10px, 10px</value>
+</constant>
+<constant>
+<name>labelbackground</name>
+<value>#ffffff, #ffffff, 255, 255</value>
+</constant>
+<constant>
+<name>labelcolor</name>
+<value>#010539</value>
+</constant>
+<constant>
+<name>labelfont</name>
+<value>Verdana,20</value>
+</constant>
+<constant>
+<name>labelshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>pointerborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>pointerborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>pointerbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>pointerborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupbackground</name>
+<value>#ffffff, #ffffff, 255, 255</value>
+</constant>
+<constant>
+<name>popupborderleft</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupborderright</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupbordertop</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupborderbottom</name>
+<value>1px, solid, #3498DB, 255</value>
+</constant>
+<constant>
+<name>popupborderradius</name>
+<value>10px, 10px, 10px, 10px</value>
+</constant>
+<constant>
+<name>popupshadow</name>
+<value>0px, 0px, 0px, 0px, #888, 255</value>
+</constant>
+<constant>
+<name>popupfont</name>
+<value>Verdana,14</value>
+</constant>
+<constant>
+<name>popupcolor</name>
+<value>#000000</value>
+</constant>
+<constant>
+<name>buttonstrokecolor</name>
+<value>#3498DB</value>
+</constant>
+<constant>
+<name>buttonfillcolor</name>
+<value>#ffffff</value>
+</constant>
+</DesignConstants>
+<cover autosize="true"/>
+<widget_orientation value="Horizontal">Horizontal</widget_orientation>
+</HotspotImage>

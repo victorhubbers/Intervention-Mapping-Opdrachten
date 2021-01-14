@@ -1,0 +1,88 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fff2f1;
+  font-family: "Luckiest Guy", cursive;
+}
+
+#grid-container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  grid-template-areas:
+    "... Bio ..."
+    "Omg Gez Voo"
+    "... Lee ...";
+}
+
+.Gez {
+  grid-area: Gez;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4em;
+}
+
+.Bio {
+  grid-area: Bio;
+}
+.Omg {
+  grid-area: Omg;
+}
+.Voo {
+  grid-area: Voo;
+}
+.Lee {
+  grid-area: Lee;
+}
+
+.input-box-container {
+  justify-self: center;
+  background-color: #fae0de;
+  margin: 1em;
+  font-family: "McLaren", cursive;
+  width: -moz-available; /* WebKit-based browsers will ignore this. */
+  width: -webkit-fill-available; /* Mozilla-based browsers will ignore this. */
+  width: fill-available;
+  border-radius: 5px;
+}
+
+.input-box-container p {
+  padding: 1em;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.input-box-header {
+  font-family: "Luckiest Guy", cursive;
+  align-self: start;
+  background-color: #eecfcd;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  border-radius: 5px 5px 0 0;
+}
+
+.input-box {
+  height: calc(100% - 50px);
+}
+
+.input-box textarea {
+  margin: 1em;
+  padding: 0.5em;
+  background-color: #fae0de;
+  font-family: "McLaren", cursive;
+  width: -moz-available; /* WebKit-based browsers will ignore this. */
+  width: -webkit-fill-available; /* Mozilla-based browsers will ignore this. */
+  width: fill-available;
+  height: inherit;
+  border: 0;
+  outline: 0;
+  resize: none;
+}

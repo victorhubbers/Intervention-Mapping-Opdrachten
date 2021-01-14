@@ -1,0 +1,127 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fff2f1;
+  font-family: "Luckiest Guy", cursive;
+}
+
+#container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#scale-container {
+  display: flex;
+  justify-content: center;
+}
+
+.counter {
+  margin: 0 6em;
+  font-size: 1em;
+}
+
+.counter p {
+  margin-top: 1em;
+  font-size: 2.5em;
+}
+
+svg {
+  overflow: visible;
+}
+
+.rotating {
+  transform: rotate(0deg);
+  transform-origin: center 74%;
+  transition: transform 1s ease-in-out;
+}
+
+ul {
+  margin: 1em;
+}
+
+#error {
+  color: red;
+  opacity: 0;
+}
+
+li {
+  margin: 1em 0;
+  display: flex;
+  justify-content: center;
+  transform: scale(1);
+  transition: all 0.4s ease-out;
+}
+
+li p {
+  padding: 0.5em 1em;
+  font-size: 1.2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  background-color: #fae0de;
+}
+
+li button {
+  border: 0;
+  margin: 0 1em;
+  width: 90px;
+  font-family: "Luckiest Guy", cursive;
+  font-size: 1.2em;
+  cursor: pointer;
+  outline: 0;
+}
+
+input#weight {
+  margin-left: 1em;
+  width: 50px;
+  text-align: center;
+  font-size: 1.2em;
+}
+input#item {
+  width: 450px;
+  font-size: 1.1em;
+}
+
+input {
+  padding: 0.1em;
+  border: 0;
+  border-bottom: 1px solid black;
+  background-color: #fff2f1;
+  font-family: "Luckiest Guy", cursive;
+  outline: 0;
+}
+
+#finished {
+  display: inline-flex;
+  font-size: 0.6em;
+}
+
+#finished p {
+  width: 400px;
+}
+
+#finished-voor p {
+  background-color: #78da93;
+}
+#finished-na p {
+  background-color: #da7878;
+}
+
+#reset {
+  margin: 1em;
+  padding: 0 1em;
+  background: none;
+  color: gray;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  font-family: "Luckiest Guy", cursive;
+  font-size: 1.2em;
+  cursor: pointer;
+  outline: 0;
+}

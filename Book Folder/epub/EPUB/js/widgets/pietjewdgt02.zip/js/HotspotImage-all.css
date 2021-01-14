@@ -1,0 +1,18 @@
+.bw-richtext-table:not(border) {
+  border-collapse: collapse;
+  margin: 15px 0;
+}
+.bw-richtext-table:not(border) td {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 6px;
+}
+@media only screen and (max-width: 440px) {
+  .audiowrapper .mejs-container {
+    width: 250px !important;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .audiowrapper .mejs-container {
+    width: 200px !important;
+  }
+}
